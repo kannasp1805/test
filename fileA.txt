@@ -1,1 +1,1 @@
-FileA 
+FileA is a file
